@@ -13,14 +13,14 @@ I built this simple Python tool to demonstrate production operations thinking ap
 - Calculates daily returns per constituent using Adjusted Close price
 - Detects anomalies using Z-Score statistical thresholds (it flags moves beyond 3 standard deviations from each stock's historical average)
 - Filters exception to a 90-day monitoring window (Note: It's measured from the latest date in the dataset - late 2024)
-- Generates a structured exception CSV report sorted by severity.
+- Generates a structured exception CSV report sorted by severity (absolute Z-score, highest first).
 - Generates plain-English incident narrative for each flagged exception which reduces the manual write-up effort and ensures consistent documentation
 
 ## Outputs
-| File | Description                                                                                                |
-|------|------------------------------------------------------------------------------------------------------------|
-|`exception_report.csv` | Structured exception report with date, symbol, name, sector, return, Z-Score, index weight, and narrative. |
-| `incident_log.txt` | Plain-text readable audit trail of all flagged incidents (sorted by severity).                             |
+| File | Description                                                                                                     |
+|------|-----------------------------------------------------------------------------------------------------------------|
+|`exception_report.csv` | Structured exception report with date, symbol, name, sector, return, Z-Score, index weight, and narrative.      |
+| `incident_log.txt` | Plain-text readable audit trail of all flagged incidents (sorted by severity: absolute Z-score, highest first). |
 
 ## Data Source
 ### Kaggle - S&P500 Stocks Dataset 
