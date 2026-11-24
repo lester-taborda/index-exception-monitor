@@ -1,0 +1,256 @@
+On October 31, 2024, Huntington Ingalls Industries,  (HII) recorded an abnormal price drop of -26.16%, which is -15.06 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0001. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 05, 2024, Celanese Corporation (CE) recorded an abnormal price drop of -26.32%, which is -12.24 standard deviations from its historical average. Sector: Basic Materials. Index Weight: 0.0001. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 31, 2024, Estee Lauder Companies, Inc. (T (EL) recorded an abnormal price drop of -20.9%, which is -10.88 standard deviations from its historical average. Sector: Consumer Defensive. Index Weight: 0.0005. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 08, 2024, Axon Enterprise, Inc. (AXON) recorded an abnormal price surge of 28.68%, which is 9.21 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0009. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Discover Financial Services (DFS) recorded an abnormal price surge of 20.22%, which is 8.98 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0008. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 24, 2024, West Pharmaceutical Services, I (WST) recorded an abnormal price surge of 15.43%, which is 8.74 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0004. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Synchrony Financial (SYF) recorded an abnormal price surge of 18.81%, which is 7.9 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0005. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 22, 2024, Philip Morris International Inc (PM) recorded an abnormal price surge of 10.47%, which is 7.74 standard deviations from its historical average. Sector: Consumer Defensive. Index Weight: 0.0035. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 11, 2024, AbbVie Inc. (ABBV) recorded an abnormal price drop of -12.57%, which is -7.62 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0056. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Capital One Financial Corporati (COF) recorded an abnormal price surge of 15.01%, which is 6.97 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0012. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, International Flavors & Fragran (IFF) recorded an abnormal price drop of -11.63%, which is -6.94 standard deviations from its historical average. Sector: Basic Materials. Index Weight: 0.0004. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 31, 2024, International Paper Company (IP) recorded an abnormal price surge of 13.28%, which is 6.92 standard deviations from its historical average. Sector: Consumer Cyclical. Index Weight: 0.0003. Flagged for production review.
+--------------------------------------------------------------------------------
+On December 09, 2024, Omnicom Group Inc. (OMC) recorded an abnormal price drop of -10.25%, which is -6.51 standard deviations from its historical average. Sector: Communication Services. Index Weight: 0.0003. Flagged for production review.
+--------------------------------------------------------------------------------
+On December 09, 2024, Comcast Corporation (CMCSA) recorded an abnormal price drop of -9.5%, which is -6.21 standard deviations from its historical average. Sector: Communication Services. Index Weight: 0.0026. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 07, 2024, Viatris Inc. (VTRS) recorded an abnormal price surge of 13.52%, which is 6.18 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0003. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 31, 2024, Altria Group, Inc. (MO) recorded an abnormal price surge of 7.84%, which is 6.1 standard deviations from its historical average. Sector: Consumer Defensive. Index Weight: 0.0016. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 24, 2024, Tesla, Inc. (TSLA) recorded an abnormal price surge of 21.92%, which is 6.01 standard deviations from its historical average. Sector: Consumer Cyclical. Index Weight: 0.0243. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 11, 2024, Fastenal Company (FAST) recorded an abnormal price surge of 9.76%, which is 5.76 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0008. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 25, 2024, Digital Realty Trust, Inc. (DLR) recorded an abnormal price surge of 9.62%, which is 5.65 standard deviations from its historical average. Sector: Real Estate. Index Weight: 0.0011. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Johnson Controls International  (JCI) recorded an abnormal price surge of 8.83%, which is 5.49 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.001. Flagged for production review.
+--------------------------------------------------------------------------------
+On September 26, 2024, Estee Lauder Companies, Inc. (T (EL) recorded an abnormal price surge of 10.01%, which is 5.17 standard deviations from its historical average. Sector: Consumer Defensive. Index Weight: 0.0005. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Iron Mountain Incorporated (Del (IRM) recorded an abnormal price drop of -8.98%, which is -5.1 standard deviations from its historical average. Sector: Real Estate. Index Weight: 0.0006. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Raymond James Financial, Inc. (RJF) recorded an abnormal price surge of 9.79%, which is 5.06 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0006. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Ameriprise Financial, Inc. (AMP) recorded an abnormal price surge of 10.41%, which is 5.0 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0009. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 27, 2024, Dell Technologies Inc. (DELL) recorded an abnormal price drop of -12.25%, which is -4.98 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0015. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 18, 2024, Intuitive Surgical, Inc. (ISRG) recorded an abnormal price surge of 10.01%, which is 4.96 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0034. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 15, 2024, Omnicom Group Inc. (OMC) recorded an abnormal price drop of -7.79%, which is -4.95 standard deviations from its historical average. Sector: Communication Services. Index Weight: 0.0003. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 01, 2024, The AES Corporation (AES) recorded an abnormal price drop of -9.85%, which is -4.92 standard deviations from its historical average. Sector: Utilities. Index Weight: 0.0002. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 18, 2024, Henry Schein, Inc. (HSIC) recorded an abnormal price surge of 7.46%, which is 4.85 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0002. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 30, 2024, IDEX Corporation (IEX) recorded an abnormal price surge of 7.24%, which is 4.83 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0003. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Regions Financial Corporation (RF) recorded an abnormal price surge of 11.39%, which is 4.82 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0004. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 04, 2024, Public Service Enterprise Group (PEG) recorded an abnormal price drop of -6.23%, which is -4.79 standard deviations from its historical average. Sector: Utilities. Index Weight: 0.0008. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 25, 2024, Universal Health Services, Inc. (UHS) recorded an abnormal price drop of -9.75%, which is -4.78 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0002. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, PNC Financial Services Group, I (PNC) recorded an abnormal price surge of 8.56%, which is 4.77 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0014. Flagged for production review.
+--------------------------------------------------------------------------------
+On December 04, 2024, Salesforce, Inc. (CRM) recorded an abnormal price surge of 10.99%, which is 4.77 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0059. Flagged for production review.
+--------------------------------------------------------------------------------
+On December 06, 2024, Hewlett Packard Enterprise Comp (HPE) recorded an abnormal price surge of 10.62%, which is 4.76 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0005. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Caterpillar, Inc. (CAT) recorded an abnormal price surge of 8.74%, which is 4.73 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0032. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 29, 2024, F5, Inc. (FFIV) recorded an abnormal price surge of 10.06%, which is 4.68 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0003. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 08, 2024, Motorola Solutions, Inc. (MSI) recorded an abnormal price surge of 7.37%, which is 4.68 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0014. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 29, 2024, Incyte Corporation (INCY) recorded an abnormal price surge of 12.04%, which is 4.58 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0002. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 15, 2024, Lam Research Corporation (LRCX) recorded an abnormal price drop of -10.9%, which is -4.51 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0017. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 21, 2024, Deere & Company (DE) recorded an abnormal price surge of 8.05%, which is 4.5 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0021. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Baker Hughes Company (BKR) recorded an abnormal price surge of 10.78%, which is 4.48 standard deviations from its historical average. Sector: Energy. Index Weight: 0.0007. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Parker-Hannifin Corporation (PH) recorded an abnormal price surge of 8.57%, which is 4.48 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0015. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Paychex, Inc. (PAYX) recorded an abnormal price surge of 6.32%, which is 4.47 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0009. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 23, 2024, McDonald's Corporation (MCD) recorded an abnormal price drop of -5.12%, which is -4.42 standard deviations from its historical average. Sector: Consumer Cyclical. Index Weight: 0.0038. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 29, 2024, Stanley Black & Decker, Inc. (SWK) recorded an abnormal price drop of -8.77%, which is -4.38 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0002. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 31, 2024, Intercontinental Exchange Inc. (ICE) recorded an abnormal price drop of -6.4%, which is -4.35 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0016. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, U.S. Bancorp (USB) recorded an abnormal price surge of 7.67%, which is 4.35 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0013. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 07, 2024, Becton, Dickinson and Company (BDX) recorded an abnormal price drop of -5.39%, which is -4.25 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0012. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 25, 2024, HCA Healthcare, Inc. (HCA) recorded an abnormal price drop of -8.86%, which is -4.25 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0014. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, The AES Corporation (AES) recorded an abnormal price drop of -8.45%, which is -4.22 standard deviations from its historical average. Sector: Utilities. Index Weight: 0.0002. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 08, 2024, Mettler-Toledo International, I (MTD) recorded an abnormal price drop of -7.19%, which is -4.21 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0005. Flagged for production review.
+--------------------------------------------------------------------------------
+On December 19, 2024, Vertex Pharmaceuticals Incorpor (VRTX) recorded an abnormal price drop of -11.37%, which is -4.19 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0018. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 24, 2024, IQVIA Holdings, Inc. (IQV) recorded an abnormal price drop of -7.27%, which is -4.15 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0006. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Fastenal Company (FAST) recorded an abnormal price surge of 7.02%, which is 4.13 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0008. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 16, 2024, United Airlines Holdings, Inc. (UAL) recorded an abnormal price surge of 12.44%, which is 4.07 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0006. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 15, 2024, West Pharmaceutical Services, I (WST) recorded an abnormal price drop of -6.99%, which is -4.03 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0004. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Tesla, Inc. (TSLA) recorded an abnormal price surge of 14.75%, which is 4.02 standard deviations from its historical average. Sector: Consumer Cyclical. Index Weight: 0.0243. Flagged for production review.
+--------------------------------------------------------------------------------
+On December 10, 2024, Oracle Corporation (ORCL) recorded an abnormal price drop of -6.67%, which is -3.99 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0085. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 25, 2024, West Pharmaceutical Services, I (WST) recorded an abnormal price drop of -6.87%, which is -3.97 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0004. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 31, 2024, Xylem Inc. (XYL) recorded an abnormal price drop of -6.48%, which is -3.95 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0005. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Citigroup, Inc. (C) recorded an abnormal price surge of 8.42%, which is 3.91 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0024. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Philip Morris International Inc (PM) recorded an abnormal price drop of -5.2%, which is -3.91 standard deviations from its historical average. Sector: Consumer Defensive. Index Weight: 0.0035. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Comcast Corporation (CMCSA) recorded an abnormal price surge of 6.06%, which is 3.9 standard deviations from its historical average. Sector: Communication Services. Index Weight: 0.0026. Flagged for production review.
+--------------------------------------------------------------------------------
+On September 26, 2024, Albemarle Corporation (ALB) recorded an abnormal price surge of 9.92%, which is 3.9 standard deviations from its historical average. Sector: Basic Materials. Index Weight: 0.0002. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 31, 2024, Microsoft Corporation (MSFT) recorded an abnormal price drop of -6.05%, which is -3.81 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0584. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 08, 2024, Fortinet, Inc. (FTNT) recorded an abnormal price surge of 9.99%, which is 3.78 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0013. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 30, 2024, AbbVie Inc. (ABBV) recorded an abnormal price surge of 6.36%, which is 3.78 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0056. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, American Express Company (AXP) recorded an abnormal price surge of 6.97%, which is 3.77 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0038. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 24, 2024, Raymond James Financial, Inc. (RJF) recorded an abnormal price surge of 7.31%, which is 3.77 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0006. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 14, 2024, Walt Disney Company (The) (DIS) recorded an abnormal price surge of 6.23%, which is 3.76 standard deviations from its historical average. Sector: Communication Services. Index Weight: 0.0037. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 11, 2024, Albemarle Corporation (ALB) recorded an abnormal price surge of 9.57%, which is 3.76 standard deviations from its historical average. Sector: Basic Materials. Index Weight: 0.0002. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Global Payments Inc. (GPN) recorded an abnormal price surge of 7.14%, which is 3.72 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0005. Flagged for production review.
+--------------------------------------------------------------------------------
+On December 18, 2024, Equifax, Inc. (EFX) recorded an abnormal price drop of -6.15%, which is -3.69 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0006. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 15, 2024, Pepsico, Inc. (PEP) recorded an abnormal price drop of -3.95%, which is -3.69 standard deviations from its historical average. Sector: Consumer Defensive. Index Weight: 0.0038. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 05, 2024, Archer-Daniels-Midland Company (ADM) recorded an abnormal price drop of -5.97%, which is -3.68 standard deviations from its historical average. Sector: Consumer Defensive. Index Weight: 0.0004. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 11, 2024, A.O. Smith Corporation (AOS) recorded an abnormal price drop of -6.25%, which is -3.67 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0002. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 12, 2024, Tyson Foods, Inc. (TSN) recorded an abnormal price surge of 6.55%, which is 3.66 standard deviations from its historical average. Sector: Consumer Defensive. Index Weight: 0.0004. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 07, 2024, ANSYS, Inc. (ANSS) recorded an abnormal price surge of 6.58%, which is 3.62 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0005. Flagged for production review.
+--------------------------------------------------------------------------------
+On December 18, 2024, Amphenol Corporation (APH) recorded an abnormal price drop of -5.6%, which is -3.61 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0015. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 08, 2024, Insulet Corporation (PODD) recorded an abnormal price surge of 9.4%, which is 3.6 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0003. Flagged for production review.
+--------------------------------------------------------------------------------
+On December 18, 2024, Iron Mountain Incorporated (Del (IRM) recorded an abnormal price drop of -6.25%, which is -3.57 standard deviations from its historical average. Sector: Real Estate. Index Weight: 0.0006. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 24, 2024, United Parcel Service, Inc. (UPS) recorded an abnormal price surge of 5.28%, which is 3.56 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0019. Flagged for production review.
+--------------------------------------------------------------------------------
+On September 24, 2024, Visa Inc. (V) recorded an abnormal price drop of -5.49%, which is -3.54 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0111. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 23, 2024, AT&T Inc. (T) recorded an abnormal price surge of 4.6%, which is 3.52 standard deviations from its historical average. Sector: Communication Services. Index Weight: 0.0029. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 14, 2024, Transdigm Group Incorporated (TDG) recorded an abnormal price drop of -6.7%, which is -3.52 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0013. Flagged for production review.
+--------------------------------------------------------------------------------
+On December 03, 2024, AT&T Inc. (T) recorded an abnormal price surge of 4.58%, which is 3.51 standard deviations from its historical average. Sector: Communication Services. Index Weight: 0.0029. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 22, 2024, Sherwin-Williams Company (The) (SHW) recorded an abnormal price drop of -5.34%, which is -3.48 standard deviations from its historical average. Sector: Basic Materials. Index Weight: 0.0016. Flagged for production review.
+--------------------------------------------------------------------------------
+On September 26, 2024, Celanese Corporation (CE) recorded an abnormal price surge of 7.53%, which is 3.47 standard deviations from its historical average. Sector: Basic Materials. Index Weight: 0.0001. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 01, 2024, Paychex, Inc. (PAYX) recorded an abnormal price surge of 4.92%, which is 3.47 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0009. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 18, 2024, Netflix, Inc. (NFLX) recorded an abnormal price surge of 11.09%, which is 3.46 standard deviations from its historical average. Sector: Communication Services. Index Weight: 0.007. Flagged for production review.
+--------------------------------------------------------------------------------
+On September 25, 2024, Global Payments Inc. (GPN) recorded an abnormal price drop of -6.5%, which is -3.44 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0005. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 25, 2024, Hartford Financial Services Gro (HIG) recorded an abnormal price drop of -6.81%, which is -3.42 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0006. Flagged for production review.
+--------------------------------------------------------------------------------
+On September 24, 2024, Global Payments Inc. (GPN) recorded an abnormal price drop of -6.46%, which is -3.42 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0005. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 11, 2024, Celanese Corporation (CE) recorded an abnormal price drop of -7.3%, which is -3.41 standard deviations from its historical average. Sector: Basic Materials. Index Weight: 0.0001. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 01, 2024, Abbott Laboratories (ABT) recorded an abnormal price surge of 4.61%, which is 3.37 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0036. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 07, 2024, Allstate Corporation (The) (ALL) recorded an abnormal price drop of -4.89%, which is -3.37 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0009. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 07, 2024, Take-Two Interactive Software,  (TTWO) recorded an abnormal price surge of 7.53%, which is 3.37 standard deviations from its historical average. Sector: Communication Services. Index Weight: 0.0006. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Enphase Energy, Inc. (ENPH) recorded an abnormal price drop of -16.82%, which is -3.37 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0002. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 31, 2024, Invitation Homes Inc. (INVH) recorded an abnormal price drop of -5.48%, which is -3.35 standard deviations from its historical average. Sector: Real Estate. Index Weight: 0.0004. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 25, 2024, Principal Financial Group Inc (PFG) recorded an abnormal price drop of -6.63%, which is -3.32 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0003. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 15, 2024, Walt Disney Company (The) (DIS) recorded an abnormal price surge of 5.46%, which is 3.29 standard deviations from its historical average. Sector: Communication Services. Index Weight: 0.0037. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 15, 2024, Revvity, Inc. (RVTY) recorded an abnormal price drop of -5.63%, which is -3.26 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0002. Flagged for production review.
+--------------------------------------------------------------------------------
+On September 26, 2024, PPG Industries, Inc. (PPG) recorded an abnormal price surge of 5.25%, which is 3.25 standard deviations from its historical average. Sector: Basic Materials. Index Weight: 0.0005. Flagged for production review.
+--------------------------------------------------------------------------------
+On December 18, 2024, IDEX Corporation (IEX) recorded an abnormal price drop of -4.74%, which is -3.24 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0003. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 30, 2024, Verisk Analytics, Inc. (VRSK) recorded an abnormal price surge of 4.54%, which is 3.24 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0007. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 29, 2024, D.R. Horton, Inc. (DHI) recorded an abnormal price drop of -7.24%, which is -3.24 standard deviations from its historical average. Sector: Consumer Cyclical. Index Weight: 0.0008. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 04, 2024, Albemarle Corporation (ALB) recorded an abnormal price surge of 8.25%, which is 3.23 standard deviations from its historical average. Sector: Basic Materials. Index Weight: 0.0002. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 24, 2024, Veralto Corp (VLTO) recorded an abnormal price drop of -4.63%, which is -3.23 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0005. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 19, 2024, Incyte Corporation (INCY) recorded an abnormal price drop of -8.33%, which is -3.22 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0002. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Oracle Corporation (ORCL) recorded an abnormal price surge of 5.51%, which is 3.21 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0085. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 15, 2024, Equifax, Inc. (EFX) recorded an abnormal price drop of -5.32%, which is -3.2 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0006. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, Dover Corporation (DOV) recorded an abnormal price surge of 5.42%, which is 3.19 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0005. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 31, 2024, Equity Residential (EQR) recorded an abnormal price drop of -4.84%, which is -3.18 standard deviations from its historical average. Sector: Real Estate. Index Weight: 0.0005. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 11, 2024, Uber Technologies, Inc. (UBER) recorded an abnormal price surge of 10.81%, which is 3.17 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0023. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 23, 2024, Packaging Corporation of Americ (PKG) recorded an abnormal price surge of 5.53%, which is 3.15 standard deviations from its historical average. Sector: Consumer Cyclical. Index Weight: 0.0004. Flagged for production review.
+--------------------------------------------------------------------------------
+On September 24, 2024, Estee Lauder Companies, Inc. (T (EL) recorded an abnormal price surge of 6.09%, which is 3.14 standard deviations from its historical average. Sector: Consumer Defensive. Index Weight: 0.0005. Flagged for production review.
+--------------------------------------------------------------------------------
+On December 11, 2024, Alphabet Inc. (GOOG) recorded an abnormal price surge of 5.46%, which is 3.12 standard deviations from its historical average. Sector: Communication Services. Index Weight: 0.0423. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, United Airlines Holdings, Inc. (UAL) recorded an abnormal price surge of 9.43%, which is 3.07 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0006. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 05, 2024, Henry Schein, Inc. (HSIC) recorded an abnormal price drop of -4.62%, which is -3.05 standard deviations from its historical average. Sector: Healthcare. Index Weight: 0.0002. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 15, 2024, Hormel Foods Corporation (HRL) recorded an abnormal price drop of -3.95%, which is -3.04 standard deviations from its historical average. Sector: Consumer Defensive. Index Weight: 0.0003. Flagged for production review.
+--------------------------------------------------------------------------------
+On December 10, 2024, Alphabet Inc. (GOOG) recorded an abnormal price surge of 5.32%, which is 3.04 standard deviations from its historical average. Sector: Communication Services. Index Weight: 0.0423. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, First Solar, Inc. (FSLR) recorded an abnormal price drop of -10.13%, which is -3.03 standard deviations from its historical average. Sector: Technology. Index Weight: 0.0004. Flagged for production review.
+--------------------------------------------------------------------------------
+On December 18, 2024, Host Hotels & Resorts, Inc. (HST) recorded an abnormal price drop of -6.25%, which is -3.02 standard deviations from its historical average. Sector: Real Estate. Index Weight: 0.0002. Flagged for production review.
+--------------------------------------------------------------------------------
+On October 22, 2024, W.R. Berkley Corporation (WRB) recorded an abnormal price drop of -4.1%, which is -3.02 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0004. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, IDEX Corporation (IEX) recorded an abnormal price surge of 4.53%, which is 3.01 standard deviations from its historical average. Sector: Industrials. Index Weight: 0.0003. Flagged for production review.
+--------------------------------------------------------------------------------
+On November 06, 2024, W.R. Berkley Corporation (WRB) recorded an abnormal price surge of 4.23%, which is 3.0 standard deviations from its historical average. Sector: Financial Services. Index Weight: 0.0004. Flagged for production review.
+--------------------------------------------------------------------------------
